@@ -19,6 +19,8 @@ public class Amazon {
 		turn = 0;
 	}
 
+	// TODO: Add parameterized constructor for n x n games and any amount of starting Amazons
+
 	/**
 	 * Checks to see if there is a "line of sight" between startR, startC and row, col. A "line of sight" is any
 	 * straight line (vertical, horizontal, or diagonal) that is unobstructed by a player or a fire character, i.e.

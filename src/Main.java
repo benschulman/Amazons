@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main implements Runnable {
+	// TODO: Add GUI
 	private int width = 1280;
 	private int height = 720;
 
