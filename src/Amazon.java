@@ -41,7 +41,7 @@ public class Amazon {
 	 * @param startC the column coordinate of the first point
 	 * @param row the row coordinate of the second point
 	 * @param col the column coordinate of the second point
-	 * @return
+	 * @return true if move is valid and false if not
 	 */
 	private boolean isValidMove(int startR, int startC, int row, int col) {
 
